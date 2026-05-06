@@ -10,3 +10,6 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Investigated performance bottleneck, noted findings
 - Addressed feedback from self code review
+
+## 2026-05-06
+- Cleaned up old debug logs
